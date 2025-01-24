@@ -1,2 +1,4 @@
 # Google-Trends-Insights-Dashboard
-Developed an interactive Power BI dashboard leveraging Google Trends data to analyze 28,000 search queries across various keywords and categories. Integrated dynamic filtering for timeframes, keyword types, and geographic locations, enabling stakeholders to explore search trends and performance.
+Designed a Power BI dashboard to explore global Google Trends data, to analyze 28,000 search queries across various keywords and categories, delivering detailed insights into rising and top-performing keywords across categories such as careers, education, and technology. Integrated dynamic filters for date, keyword type, and region, enabling precise trend analysis.  
+
+
